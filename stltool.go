@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	
-	"github.com/hschendel/stl"
+	"github.com/eropple/stl"
 )
 
 const version = "1.0.1"
